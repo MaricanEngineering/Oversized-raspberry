@@ -1,9 +1,11 @@
 Marican Community license V1.0
-This license is distributed under gnu like terms(you must include this license disclosure and Marican Comunity License based licenses must be redistributable under the same terms), this is your disclosure and must be included.
+This license is distributed under required atributuin terms(you must include this license disclosure and Marican Comunity License based licenses must be redistributable under the same terms), this is your disclosure and must be included.
 Copyright 2026 Julian C./ Marican Engineering
 
 1. Definitions
 Commercial entity: a for profit corporation or sole proprietorship bringing in over $10,000 in sales a year for over 90 days, with sales $ numbers calclated by any accurate method of your choice. 
+
+source: for software, source means the uncompiled code, for electronics, source means editable schematic files exported by a eda or CAD program. for others, it is all the files used to make a finished product
 
 noncomercial entity: any US or EU member country nonprofit or anyone or corporation who isn't classified as a commercial entity.
 
@@ -28,7 +30,7 @@ Certain companies (eg pine64) that are considered for profit legally but have lo
 Anything licensed under the Marican Community License has NO WARRANTY OR GUARANTEES ATTACHED unless expressly specified by the licensor.
 
 7. Changes to license terms
-When you distribute something under the Marican Community License, you agree that you are distributing under the acknowledgement that if someone downloads something under the Marican Community License, you can not change the license terms on people who have already downloaded that from you on that file they have already downloaded, although you can roll out an updated version under a new license. the exception is that if you switch income brackets and no longer are considered noncomercial, you have 45 days to stop distributing or manufacturing your product. 
+When you distribute something under the Marican Community License, you agree that you are distributing under the acknowledgement that if someone downloads something under the Marican Community License, you can not change the license terms on people who have already downloaded that from you on that file they have already downloaded, although you can roll out an updated version under a new license. the exception is that if you switch income brackets and no longer are considered noncomercial, you may only make reliability changes, but may continue distributing the current version, although you may no longer make major changes while being grandfathered in to the noncomercial level. 
 
 
 
