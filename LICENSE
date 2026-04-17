@@ -24,6 +24,8 @@ Certain companies (eg pine64) that are considered for profit legally but have lo
 500K-1M: 20%
 1M+: 18%
 
+Entities qualifying under Section 4 are exempt from the derivative restrictions found in Section 2, provided they adhere to the redistribution requirements
+
 5. Acceptable timeline: when you need to release your derivative work under this license, there is an acceptable timeline for how long you can take to release it. For software, non commercial entities have 45 days after compiled binaries are distributed to distribute the uncompiled source code via GitHub, gitlab, your own website, or any other other freely available platform. For software for commercial use distributed traditionally through online download or via physical software release, you have 14 days from the day first available via the original release form to release uncompiled source code. Having API keys or secret keys not distributed is acceptable as long as a generic files with comments explaining where API keys or secrets go. For software distributed internally in a product(eg. firmware for a 3d printer), you have the longer of the two, if sent to beta testers or reviewers with a embargo, 45 days after the embargo fully ends, unless embargo fully ends after commercial availability, In which case, this option is void. the other option is 30 days after general corporate availability. For hardware, you have 30 days if you are a commercial entity and 45 days if you are not a commercial entity
 
 6. Responsibility of licensor
