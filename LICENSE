@@ -1,12 +1,14 @@
 Marican Community license V1.0
-This license is distributed under gnu like terms(you must include this license disclosure and Marican Comunity License baded licenses must be redistributable under the same terms), this is your disclosure and must be included.
+This license is distributed under gnu like terms(you must include this license disclosure and Marican Comunity License based licenses must be redistributable under the same terms), this is your disclosure and must be included.
 Copyright 2026 Julian C./ Marican Engineering
 
 1. Definition of a commercial entity
 Commercial entity: a for profit corporation bringing in over $10,000 in sales a year for over 90 days, with sales $ numbers calclated by any accurate method of your choice. 
 
+noncomercial entity: any US or EU member country nonprofit or anyone or corporatiom who isn't classified as a commercial entity.
+
 2. Redistributability
-Projects licensed under the Marican Community License have limited distributability. If you are a non-commercial entity, projects have free derivative redistributability as long as they are also shared under the Marican Community License. If you are a commercial entity, your rights are limited heavily. For internal use, you are considered a non-commercial entity. for use in commercial products, A "handshake" model is applied. derivitive works are not allowed in the traditional way, eg. a modified version of someone elses circuit boards. what is allowed is using this as a reference freely to create your own designs or modification kits for someone elses projects, eg a HAT for someone elses circuit board.
+Projects licensed under the Marican Community License have limited distributability. If you are a non-commercial entity, projects have free derivative redistributability as long as they are also shared under the Marican Community License. If you are a commercial entity, your rights are limited heavily. For internal use, you are considered a non-commercial entity. for use in commercial products, A "handshake" model is applied. derivitive works are not allowed in the traditional way, eg. a modified version of someone elses circuit boards. what is allowed is using this as a reference freely to create your own designs or modification kits for someone elses projects, eg a HAT for someone elses circuit board(these don't have to be redistributed under the marican community license).
 
 3. License intercompatibility
 This license is not currently inter compatible with sny other outside licenses, although it is forward compatible with new releases of this license in the 1.X level , but not releases with a diffrent first didget like 2.X. if you want to make a intercompatible license, please contact me (Marican Engineering) through github issues and inter compatibility may be merged in to a future release.
@@ -19,3 +21,5 @@ Certain companies (eg pine64) that are considered for profit legally but have lo
 100K-500K: 28%
 500K-1M: 20%
 1M+: 18%
+
+5. Acceptable timeline: when you need to release your derivative work under this license, there is an acceptable timeline for how long you can take to release it. For software, non commercial entities have 45 days after compiled binaries are distributed to distribute the uncompiled source code via GitHub, gitlab, your own website, or any other other freely available platform. For software for commercial use distributed traditionally through online download or via physical software release, you have 14 days from the day first available via the original release form to release uncompiled source code. Having API keys or secret keys not distributed is acceptable as long as a generic files with comments explaining where API keys or secrets go. For software distributed internally in a product(eg. firmware for a 3d printer), you have the longer of the two, if sent to beta testers or reviewers with a embargo, 45 days after the embargo fully ends, unless embargo fully ends after commercial availability, In which case, this option is void, or 30 days after general corporate availability.
